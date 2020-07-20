@@ -1,0 +1,35 @@
+CREATE PROC NAMDENHANTHANHLI
+AS
+BEGIN
+
+declare @NamXB date, @NamDKHTL date
+set @NamXB = (select @NamXB from "insered")
+set @NamDKHTL = (select @NamDKHTL from "inser")
+set @NamDKHTL = DATEADD(YEAR, 8, @NamXB)
+update SACH set NamDKHTL = @NamDKHTL
+
+end 
+go
+
+--test: Exec NAMDENHANTHANHLI
+
+
+
+
+CREATE PROC NAMHETHAN
+AS
+BEGIN
+
+declare @NgayLapThe date, @NgayHetHan datetime
+set @NgayLapThe =(select @NgayLapThe from "insert")
+set @NgayHetHan = (select @NgayHetHan from "insert")
+set @NgayHetHan = DATEADD(MONTH, 6, @NgayLapThe)
+update DOCGIA Set NgayHetHan = @NgayHetHan
+	end 
+	go
+
+
+
+--test: Exec NAMHETHAN
+
+

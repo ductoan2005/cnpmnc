@@ -1,0 +1,339 @@
+D:\Đồ Án\DoAn\bin\ApplicationInsights.config
+D:\Đồ Án\DoAn\bin\roslyn\csc.exe
+D:\Đồ Án\DoAn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Đồ Án\DoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Đồ Án\DoAn\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Đồ Án\DoAn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Đồ Án\DoAn\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Đồ Án\DoAn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Đồ Án\DoAn\bin\roslyn\System.Collections.Immutable.dll
+D:\Đồ Án\DoAn\bin\roslyn\System.Reflection.Metadata.dll
+D:\Đồ Án\DoAn\bin\roslyn\vbc.exe
+D:\Đồ Án\DoAn\bin\roslyn\VBCSCompiler.exe
+D:\Đồ Án\DoAn\bin\roslyn\VBCSCompiler.exe.config
+D:\Đồ Án\DoAn\bin\DoAn.dll.config
+D:\Đồ Án\DoAn\bin\DoAn.dll
+D:\Đồ Án\DoAn\bin\DoAn.pdb
+D:\Đồ Án\DoAn\bin\Antlr3.Runtime.dll
+D:\Đồ Án\DoAn\bin\EntityFramework.dll
+D:\Đồ Án\DoAn\bin\EntityFramework.SqlServer.dll
+D:\Đồ Án\DoAn\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Đồ Án\DoAn\bin\Microsoft.AI.DependencyCollector.dll
+D:\Đồ Án\DoAn\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Đồ Án\DoAn\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Đồ Án\DoAn\bin\Microsoft.AI.Web.dll
+D:\Đồ Án\DoAn\bin\Microsoft.AI.WindowsServer.dll
+D:\Đồ Án\DoAn\bin\Microsoft.ApplicationInsights.dll
+D:\Đồ Án\DoAn\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Đồ Án\DoAn\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Đồ Án\DoAn\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Đồ Án\DoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Đồ Án\DoAn\bin\Microsoft.Owin.dll
+D:\Đồ Án\DoAn\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Đồ Án\DoAn\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Đồ Án\DoAn\bin\Microsoft.Owin.Security.dll
+D:\Đồ Án\DoAn\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Đồ Án\DoAn\bin\Microsoft.Owin.Security.Google.dll
+D:\Đồ Án\DoAn\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Đồ Án\DoAn\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Đồ Án\DoAn\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Đồ Án\DoAn\bin\Microsoft.Web.Infrastructure.dll
+D:\Đồ Án\DoAn\bin\Newtonsoft.Json.dll
+D:\Đồ Án\DoAn\bin\Owin.dll
+D:\Đồ Án\DoAn\bin\System.Web.Helpers.dll
+D:\Đồ Án\DoAn\bin\System.Web.Mvc.dll
+D:\Đồ Án\DoAn\bin\System.Web.Optimization.dll
+D:\Đồ Án\DoAn\bin\System.Web.Razor.dll
+D:\Đồ Án\DoAn\bin\System.Web.WebPages.Deployment.dll
+D:\Đồ Án\DoAn\bin\System.Web.WebPages.dll
+D:\Đồ Án\DoAn\bin\System.Web.WebPages.Razor.dll
+D:\Đồ Án\DoAn\bin\WebGrease.dll
+D:\Đồ Án\DoAn\bin\Microsoft.AI.DependencyCollector.xml
+D:\Đồ Án\DoAn\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Đồ Án\DoAn\bin\Microsoft.AI.Web.xml
+D:\Đồ Án\DoAn\bin\Microsoft.AI.WindowsServer.xml
+D:\Đồ Án\DoAn\bin\Microsoft.ApplicationInsights.xml
+D:\Đồ Án\DoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Đồ Án\DoAn\bin\System.Web.Helpers.xml
+D:\Đồ Án\DoAn\bin\System.Web.Mvc.xml
+D:\Đồ Án\DoAn\bin\System.Web.Optimization.xml
+D:\Đồ Án\DoAn\bin\System.Web.Razor.xml
+D:\Đồ Án\DoAn\bin\System.Web.WebPages.xml
+D:\Đồ Án\DoAn\bin\System.Web.WebPages.Deployment.xml
+D:\Đồ Án\DoAn\bin\System.Web.WebPages.Razor.xml
+D:\Đồ Án\DoAn\bin\Antlr3.Runtime.pdb
+D:\Đồ Án\DoAn\bin\Newtonsoft.Json.xml
+D:\Đồ Án\DoAn\bin\EntityFramework.xml
+D:\Đồ Án\DoAn\bin\EntityFramework.SqlServer.xml
+D:\Đồ Án\DoAn\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Đồ Án\DoAn\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Đồ Án\DoAn\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Đồ Án\DoAn\bin\Microsoft.Owin.xml
+D:\Đồ Án\DoAn\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Đồ Án\DoAn\bin\Microsoft.Owin.Security.xml
+D:\Đồ Án\DoAn\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Đồ Án\DoAn\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Đồ Án\DoAn\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Đồ Án\DoAn\bin\Microsoft.Owin.Security.Google.xml
+D:\Đồ Án\DoAn\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Đồ Án\DoAn\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Đồ Án\DoAn\obj\Debug\DoAn.csprojResolveAssemblyReference.cache
+D:\Đồ Án\DoAn\obj\Debug\DoAn.dll
+D:\Đồ Án\DoAn\obj\Debug\DoAn.pdb
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\ApplicationInsights.config
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\roslyn\csc.exe
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\roslyn\vbc.exe
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\roslyn\VBCSCompiler.exe
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\DoAn.dll.config
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\DoAn.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\DoAn.pdb
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Antlr3.Runtime.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\EntityFramework.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\EntityFramework.SqlServer.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.AI.Web.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.Owin.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.Owin.Security.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Newtonsoft.Json.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Owin.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\System.Web.Helpers.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\System.Web.Mvc.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\System.Web.Optimization.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\System.Web.Razor.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\System.Web.WebPages.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\System.Web.WebPages.Razor.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\WebGrease.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.AI.Web.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\System.Web.Helpers.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\System.Web.Mvc.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\System.Web.Optimization.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\System.Web.Razor.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\System.Web.WebPages.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\System.Web.WebPages.Razor.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Antlr3.Runtime.pdb
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Newtonsoft.Json.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\EntityFramework.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\EntityFramework.SqlServer.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.Owin.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.Owin.Security.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\obj\Debug\DoAn.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\obj\Debug\DoAn.pdb
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn1-master\DoAn\obj\Debug\DoAn.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\ApplicationInsights.config
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\roslyn\csc.exe
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\roslyn\vbc.exe
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\DoAn.dll.config
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\DoAn.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\DoAn.pdb
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Antlr3.Runtime.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\EntityFramework.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.AI.Web.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.Owin.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.Owin.Security.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Newtonsoft.Json.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Owin.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\System.Web.Helpers.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\System.Web.Mvc.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\System.Web.Optimization.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\System.Web.Razor.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\System.Web.WebPages.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\WebGrease.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.AI.Web.xml
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\System.Web.Helpers.xml
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\System.Web.Mvc.xml
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\System.Web.Optimization.xml
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\System.Web.Razor.xml
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\System.Web.WebPages.xml
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Newtonsoft.Json.xml
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\EntityFramework.xml
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.Owin.xml
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.Owin.Security.xml
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\obj\Debug\DoAn.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\obj\Debug\DoAn.dll
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\obj\Debug\DoAn.pdb
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\obj\Debug\DoAn.Migrations.init.resources
+C:\Users\USER\Downloads\WNC_DoAN\DoAn1-master\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\ApplicationInsights.config
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\roslyn\csc.exe
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\roslyn\vbc.exe
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\roslyn\VBCSCompiler.exe
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\DoAn.dll.config
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\DoAn.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\DoAn.pdb
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Antlr3.Runtime.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\EntityFramework.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\EntityFramework.SqlServer.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.AI.Web.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.Owin.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.Owin.Security.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Newtonsoft.Json.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Owin.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\System.Web.Helpers.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\System.Web.Mvc.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\System.Web.Optimization.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\System.Web.Razor.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\System.Web.WebPages.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\System.Web.WebPages.Razor.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\WebGrease.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.AI.Web.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\System.Web.Helpers.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\System.Web.Mvc.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\System.Web.Optimization.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\System.Web.Razor.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\System.Web.WebPages.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\System.Web.WebPages.Razor.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Antlr3.Runtime.pdb
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Newtonsoft.Json.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\EntityFramework.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\EntityFramework.SqlServer.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.Owin.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.Owin.Security.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\obj\Debug\DoAn.csprojAssemblyReference.cache
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\obj\Debug\DoAn.Migrations.init.resources
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\obj\Debug\DoAn.dll
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\obj\Debug\DoAn.pdb
+C:\Users\Duy Dat\Desktop\DoAn1Toan\DoAn\obj\Debug\DoAn.Migrations.a.resources

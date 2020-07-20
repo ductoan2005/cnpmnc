@@ -1,0 +1,49 @@
+﻿
+@{
+    ViewBag.Title = "SXTen";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card-body">
+    <div class="table-responsive">
+        <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+            <thead>
+                <tr style="text-align:center">
+                    <th>ID</th>
+                    <th>Tên Sản Phẩm</th>
+                    <th>Giá Tiền</th>
+                    <th>Tên Thương Hiệu</th>
+                    <th>Thông Số</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in ViewBag.ds)
+                {
+                    <tr>
+                        <th>@item.LaptopID</th>
+                        <th>@item.TenLaptop</th>
+                        <th>@item.Giatien</th>
+                        <th>@item.MaTH</th>
+                        <th>@item.ThongSo</th>
+                        <th style="text-align:center">
+                            <a href="@Url.Action("Xoa","Home", new { id=item.LaptopID})" class="btn btn-outline-danger">Xoá</a>
+                            <a href="@Url.Action("Sua","Home", new { id=item.LaptopID})" class="btn btn-outline-warning">Sửa</a>
+                        </th>
+                    </tr>
+                }
+                <tr>
+                    <td>
+                        @for (int i = 1; i < ViewBag.count + 1; i++)
+                        {
+                            <a href="@Url.Action("Index","Home", new { id = i})" class="btn btn-outline-primary">@i</a>
+                        }
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+
