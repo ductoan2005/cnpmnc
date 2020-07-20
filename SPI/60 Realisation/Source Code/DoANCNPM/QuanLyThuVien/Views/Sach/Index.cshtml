@@ -1,0 +1,72 @@
+﻿@model IEnumerable<QuanLyThuVien.Models.Sach>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.HinhAnh)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TenSach)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TinhTrangSachID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Gia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TacGia)
+            </th>
+
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in ViewBag.ds)
+        {
+
+            <tr>
+                <td>
+                    <img src="~/image/@item.HinhAnh" class="img-thumbnail" style="width:100px; height:100px" />
+                </td>
+                <td>
+                    @item.TenSach
+                </td>
+                <td>
+                    @item.TinhTrangSach.TenTTSach
+                </td>
+                <td>
+                    @item.Gia
+                </td>
+                <td>
+                    @item.TacGia
+                </td>
+                <td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.SachID">Sửa thông tin</a> |
+                    <a asp-action="Details" asp-route-id="@item.SachID">Chi tiết</a> |
+                    <a asp-action="Delete" asp-route-id="@item.SachID">Xoá</a> |
+                    @if (item.TinhTrangSachID == 1)
+                    {
+                        <a class="btn btn-primary" asp-controller="Cart" asp-action="Lent" asp-route-id="@item.SachID">Lent</a>
+
+                    }
+                    else
+                    {
+                        <button class="btn btn-danger">Lent</button>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

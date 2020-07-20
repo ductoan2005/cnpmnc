@@ -1,0 +1,37 @@
+﻿@model QuanLyThuVien.Models.CT_PhieuMuon
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>CT_PhieuMuon</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="SachID" class="control-label"></label>
+                <select asp-for="SachID" class ="form-control" asp-items="ViewBag.SachID"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="CartID" class="control-label"></label>
+                <select asp-for="CartID" class ="form-control" asp-items="ViewBag.CartID"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="PhieuMuonID" class="control-label"></label>
+                <select asp-for="PhieuMuonID" class ="form-control" asp-items="ViewBag.PhieuMuonID"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

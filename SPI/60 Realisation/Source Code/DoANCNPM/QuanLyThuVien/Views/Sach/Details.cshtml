@@ -1,0 +1,77 @@
+﻿@model QuanLyThuVien.Models.Sach
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Sach</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.HinhAnh)
+        </dt>
+        <dd class="col-sm-10">
+            <img src="~/image/@Model.HinhAnh" class="img-thumbnail" style="width:100px; height:100px" />
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.TenSach)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.TenSach)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.NhaXB)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NhaXB)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.NgayNhap)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NgayNhap)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.TinhTrangSach.TenTTSach)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.TinhTrangSach.TenTTSach)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Gia)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Gia)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.TacGia)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.TacGia)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.NgayXB)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NgayXB)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.NamHetHan)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NamHetHan)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.TheLoaiSach.TenTLSach)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.TheLoaiSach.TenTLSach)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

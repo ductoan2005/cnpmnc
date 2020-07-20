@@ -1,0 +1,41 @@
+﻿@model QuanLyThuVien.Models.CT_PhieuMuon
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>CT_PhieuMuon</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="CT_PhieuMuonID" />
+            <div class="form-group">
+                <label asp-for="SachID" class="control-label"></label>
+                <select asp-for="SachID" class="form-control" asp-items="ViewBag.SachID"></select>
+                <span asp-validation-for="SachID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CartID" class="control-label"></label>
+                <select asp-for="CartID" class="form-control" asp-items="ViewBag.CartID"></select>
+                <span asp-validation-for="CartID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PhieuMuonID" class="control-label"></label>
+                <select asp-for="PhieuMuonID" class="form-control" asp-items="ViewBag.PhieuMuonID"></select>
+                <span asp-validation-for="PhieuMuonID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

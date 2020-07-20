@@ -1,0 +1,49 @@
+﻿@model QuanLyThuVien.Models.PhieuThuTienPhat
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div class="container">
+    <h4>PhieuThuTienPhat</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.TienCoc)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.TienCoc)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.TienPhat)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.TienPhat)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.TienConLai)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.TienConLai)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.DocGia)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.DocGia.TenDocGia)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.PhieuTra)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PhieuTra.PhieuTraID)
+        </dd>
+    </dl>
+    <div>
+
+        <a class="btn btn-primary" asp-action="Index">Back to List</a>
+    </div>
+</div>
+

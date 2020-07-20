@@ -1,0 +1,44 @@
+﻿@model List<QuanLyThuVien.Models.CT_PhieuMuon>
+@{
+    ViewData["Title"] = "KiemTraPhieuTra";
+}
+
+<br />
+<br />
+
+<div class="container">
+   
+        <form asp-action="SubmitKiemTraPhieuTra" asp-route-id="@ViewBag.id" method="post">
+            <div class="card">
+                <div class="card-header">
+                    <h2>chọn sách trả</h2>
+                </div>
+                <div>
+                    số ngày mượn : @ViewBag.songaymuon
+                </div>
+
+                <div class="card-body">
+                        @for (int i = 0; i < Model.Count; i++)
+                        {
+                            <div class="form-check m-1">
+                                <input type="hidden" asp-for="@Model[i].CT_PhieuMuonID" />
+                                <input type="hidden" asp-for="@Model[i].PhieuMuonID" />
+                                <input type="hidden" asp-for="@Model[i].SachID" />
+                                <label readonly asp-for="@Model[i].Sach.Gia" />
+                                <input asp-for="@Model[i].IsSelected" class="form-check-input" />
+                                <label class="form-check-label" asp-for="@Model[i].IsSelected">
+                                    @Model[i].Sach.TenSach
+                                </label>
+                            </div>
+                        }
+                  
+                </div>
+
+                <div class="card-footer">
+                    <input type="submit" value="Trả" class="btn btn-primary" style="width:auto" />
+                    <a asp-controller="Sach" asp-action="Index" class="btn btn-primary" style="width:auto">Cancel</a>
+                </div>
+            </div>
+        </form>
+    \
+ </div>

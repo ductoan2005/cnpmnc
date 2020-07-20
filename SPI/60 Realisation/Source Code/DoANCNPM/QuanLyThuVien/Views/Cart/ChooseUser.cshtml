@@ -1,0 +1,33 @@
+﻿@model List<QuanLyThuVien.Models.DocGia>
+
+@{
+
+}
+
+<h2>Chọn User</h2>
+<form method="post">
+    <div class="container card">
+        <div class="card-header">
+            <h2>Add user</h2>
+        </div>
+        <div class="card-body">
+            @for (int i = 0; i < Model.Count; i++)
+            {
+                <div class="form-check m-1">
+                    <input type="hidden" asp-for="@Model[i].DocGiaID" />
+                    <input type="hidden" asp-for="@Model[i].TenDocGia" />
+                    <input asp-for="@Model[i].IsSelected" class="form-check-input" />
+                    <label class="form-check-label" asp-for="@Model[i].IsSelected">
+                        @Model[i].TenDocGia
+                    </label>
+                </div>
+            }
+        </div>
+        <div class="card-footer">
+            <form  method="post">
+                <input asp-controller="Cart" asp-action="PhieuMuon" type="submit" value="Lent" class="btn btn-primary" style="width:auto" />
+            </form>       
+            <a asp-controller="Sach" asp-action="Index" class="btn btn-primary" style="width:auto">Cancel</a>
+        </div>
+    </div>
+</form>

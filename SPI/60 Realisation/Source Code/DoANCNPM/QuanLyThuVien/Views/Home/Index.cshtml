@@ -1,0 +1,72 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!-- ======= Carousel Sliders ======= -->
+<div id="carouselSlider" class="carousel slide" data-ride="carousel">
+    <ul class="carousel-indicators">
+        <li data-target="#carouselSlider" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselSlider" data-slide-to="1"></li>
+        <li data-target="#carouselSlider" data-slide-to="2"></li>
+    </ul>
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="~/user/img/carousel/bookbaner_1.jpg">
+            <div class="carousel-caption">
+                <h3></h3>
+                <p></p>
+            </div>
+        </div>
+        
+    </div>
+    <a class="carousel-control-prev" href="#carouselSlider" data-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+    </a>
+    <a class="carousel-control-next" href="#carouselSlider" data-slide="next">
+        <span class="carousel-control-next-icon"></span>
+    </a>
+</div>
+
+<!--? Popular Items Start -->
+<br />
+<br />
+
+<div class="popular-items section-padding30">
+    <div class="container">
+        <!-- Section tittle -->
+        <div class="row justify-content-center">
+            <div class="col-xl-7 col-lg-8 col-md-10">
+                <div class="section-header mb-70 text-center">
+                    <h3>Sản phẩm nổi bật</h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            @foreach (var item in ViewBag.sach)
+            {
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                    <div class="single-popular-items mb-50 text-center">
+                        <div class="popular-img">
+                            <img src="~/image/@item.HinhAnh" width="400" height="400" alt="">
+                            <div class="img-cap">
+                                <a asp-action="Lent" asp-controller="Cart" asp-route-id="@item.SachID"><span>Thêm vào giỏ hàng</span></a>
+                            </div>
+                            <div class="favorit-items">
+                                <span class="flaticon-heart"></span>
+                            </div>
+                        </div>
+                        <div class="popular-caption">
+                            <h3><a asp-action="Details" asp-controller="Home" asp-route-id="@item.SachID">@item.TenSach</a></h3>
+                            <span>@item.Gia</span>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+
+
+    </div>
+
+</div>

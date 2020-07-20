@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewData["Title"] = "PhieuMuon";
+}
+
+<h1>PhieuMuon</h1>
+<br />
+<br />
+<div class="container">
+    @ViewBag.Message
+    <form asp-controller="Sach" asp-action="Index">
+        <input type="submit" value="Back to List" class="btn btn-primary" />
+    </form>
+</div>
+
+
